@@ -1,0 +1,9 @@
+class Clock {
+    constructor() {
+        
+    }
+}
+
+// printTime() {
+
+// }
